@@ -6,7 +6,6 @@
 ## About Me
 - He/Him
 - Minecraft Plugin & Discord Bot Developer
-- Speedcubing Network Developer
 
 ## Social Media
 - Discord: [Nontage](discordapp.com/users/810170073239126066)
