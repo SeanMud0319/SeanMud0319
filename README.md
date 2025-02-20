@@ -13,6 +13,7 @@
 
 ## My Repositories
 - [YouTube-Discord-Music-Bot](https://github.com/SeanMud0319/YouTube-Discord-Music-Bot) - A Music Bot For Playing YouTube Music.
+- [SpeedcubingTeleport](https://github.com/speedcubing-top/SpeedcubingTeleport) - A Minecraft Player Teleport plugin like /tpa
 - [DatabaseLib](https://github.com/SeanMud0319/DatabaseLib) - A Standalone Database Library Split From SpeedcubingLib.
 - [SpeedcubingAPI](https://github.com/SeanMud0319/SpeedcubingAPI) - A Simple Unofficial SpeedcubingAPI.
 - [Practice](https://github.com/SeanMud0319/Practice) - A Minecraft Practice Plugin For Speedcubing Server.
