@@ -13,13 +13,11 @@
 
 ## My Repositories
 - [YouTube-Discord-Music-Bot](https://github.com/SeanMud0319/YouTube-Discord-Music-Bot) - A Music Bot For Playing YouTube Music.
-- [SpeedcubingTeleport](https://github.com/speedcubing-top/SpeedcubingTeleport) - A Minecraft Player Teleport plugin like /tpa
+- [SpeedcubingTeleport](https://github.com/SeanMud0319/SpeedcubingTeleport) - A Minecraft Player Teleport plugin like /tpa
 - [DatabaseLib](https://github.com/SeanMud0319/DatabaseLib) - A Standalone Database Library Split From SpeedcubingLib.
 - [SpeedcubingAPI](https://github.com/SeanMud0319/SpeedcubingAPI) - A Simple Unofficial SpeedcubingAPI.
 - [Practice](https://github.com/SeanMud0319/Practice) - A Minecraft Practice Plugin For Speedcubing Server.
 - [Bedwars1058-Hotbar](https://github.com/SeanMud0319/Bedwars1058-Hotbar) - Bedwars1058 Hotbar Plugin Depend Speedcubing Server, Lib And Bedwars1058(Cubing Version).
-- [LogPeeler](https://github.com/BrilliantTeam/LogPeeler) - A Plugin That Allows Dispensers to Strip Bark From Logs And Restore Them To Their Original Form.
-- [WaterCopper](https://github.com/BrilliantTeam/WaterCopper) - A Plugin Make Chemical Reaction Of Copper LOL.
 
 
 ## Languages and Tools
