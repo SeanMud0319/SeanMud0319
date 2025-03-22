@@ -12,6 +12,7 @@
 - Email: whe91000@gmail.com
 
 ## My Repositories
+- [PrivateVoiceBot](https://github.com/SeanMud0319/PrivateVoiceBot) - A Discord Bot For Personal Voice Channel
 - [YouTube-Discord-Music-Bot](https://github.com/SeanMud0319/YouTube-Discord-Music-Bot) - A Music Bot For Playing YouTube Music.
 - [SpeedcubingTeleport](https://github.com/SeanMud0319/SpeedcubingTeleport) - A Minecraft Player Teleport plugin like /tpa
 - [DatabaseLib](https://github.com/SeanMud0319/DatabaseLib) - A Standalone Database Library Split From SpeedcubingLib.
