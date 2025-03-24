@@ -26,8 +26,11 @@
 
 
 <p align="center">
-    <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=seanmud0319&show_icons=true&theme=tokyonight&locale=en" alt="seanmud0319" />
-    <img align="right" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanmud0319&theme=tokyonight&show_icons=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=seanmud0319&show_icons=true&theme=tokyonight&locale=en" alt="seanmud0319" />
+</p>
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanmud0319&theme=tokyonight&show_icons=true" />
 </p>
 
 
