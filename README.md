@@ -6,12 +6,13 @@
 ## About Me
 - He/Him
 - Minecraft Plugin & Discord Bot Developer
+- Java Runtime Bytecode Injection
 
 ## Social Media
 - Discord: [Nontage](discordapp.com/users/810170073239126066)
 - Email: whe91000@gmail.com
 
-## My Repositories
+## My Repositories (Terrible)
 - [PrivateVoiceBot](https://github.com/SeanMud0319/PrivateVoiceBot) - A Discord Bot For Personal Voice Channel
 - [YouTube-Discord-Music-Bot](https://github.com/SeanMud0319/YouTube-Discord-Music-Bot) - A Music Bot For Playing YouTube Music.
 - [SpeedcubingTeleport](https://github.com/SeanMud0319/SpeedcubingTeleport) - A Minecraft Player Teleport plugin like /tpa
