@@ -5,8 +5,6 @@
 
 ## About Me
 - He/Him
-- Minecraft Plugin & Discord Bot Developer
-- Java Runtime Bytecode Injection
 
 ## Social Media
 - Discord: [Nontage](discordapp.com/users/810170073239126066)
